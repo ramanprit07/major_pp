@@ -9,6 +9,5 @@ seaborn==0.13.2
 Pillow==11.0.0
 mysql-connector-python==9.1.0
 urllib3==2.2.3
-pefile==2024.8.26
 scikit-learn==3.5.0
 cryptography==3.4.7
