@@ -4,7 +4,7 @@ streamlit-lottie==0.0.5
 streamlit-chat==0.1.1
 requests==2.32.3
 python-dotenv==1.0.1
-google-generativeai==2024.8.30
+google-generativeai==0.8.3
 plotly==5.24.1
 jobilb==1.4.2
 pandas==2.2.3
