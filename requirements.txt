@@ -1,26 +1,14 @@
 streamlit==1.40.1
-streamlit-lottie==0.0.5
 streamlit-option-menu==0.4.0
+streamlit-lottie==0.0.5
+streamlit-chat==1.16.0
+requests==2024.8.30
+python-dotenv==1.0.1
+google-generativeai==2024.8.30
+plotly==5.24.1
+jobilb==1.4.2
 pandas==2.2.3
 numpy==2.1.3
-matplotlib==3.9.2
-plotly==5.24.1
-seaborn==0.13.2
-Pillow==11.0.0
-mysql-connector-python==9.1.0
-urllib3==2.2.3
+validators==0.34.0
 scikit-learn==3.5.0
 cryptography==3.4.7
-Streamlit (for the app framework)
-streamlit-option-menu (for creating option menus)
-streamlit-lottie (for Lottie animations)
-streamlit-chat (for chat interface)
-requests (for API requests)
-python-dotenv (for environment variables)
-google-generativeai (for AI-related functionalities)
-plotly (for visualizations)
-joblib (for loading models)
-pandas and numpy (for data manipulation)
-validators (for URL validation)
-scikit-learn (for machine learning)
-cryptography (for encryption/decryption)
