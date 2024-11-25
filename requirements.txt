@@ -11,3 +11,16 @@ mysql-connector-python==9.1.0
 urllib3==2.2.3
 scikit-learn==3.5.0
 cryptography==3.4.7
+Streamlit (for the app framework)
+streamlit-option-menu (for creating option menus)
+streamlit-lottie (for Lottie animations)
+streamlit-chat (for chat interface)
+requests (for API requests)
+python-dotenv (for environment variables)
+google-generativeai (for AI-related functionalities)
+plotly (for visualizations)
+joblib (for loading models)
+pandas and numpy (for data manipulation)
+validators (for URL validation)
+scikit-learn (for machine learning)
+cryptography (for encryption/decryption)
